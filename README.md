@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Reach me: akinochen@foxmail.com<br>My blog: https://akino.icu</p>
+<p align="left">Contact me: akinochen@foxmail.com<br>My blog: https://akino.icu</p>
 
 ###
 
