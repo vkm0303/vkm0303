@@ -30,7 +30,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
-  <img alt="github-snake" src="snake.svg" />
+  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/akinocccc/akinocccc/output/snake.svg)https://raw.githubusercontent.com/akinocccc/akinocccc/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
