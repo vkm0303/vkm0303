@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Akino and I'm a front-end engineer.</h2>
-
 ###
 
 <div align="center">
@@ -24,9 +22,5 @@
 <p align="left">Contact me: akinochen@foxmail.com<br>My blog: https://akino.icu</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/akinocccc/akinocccc/output/snake.svg" alt="Snake animation" />
 
 ###
